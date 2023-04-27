@@ -1,5 +1,9 @@
 # Criador de resumos, usando a API Article Extractor and Summarizer que utiliza o chatGPT
 
+## Link para visualização
+
+##### https://resumo-artigos-chat-gpt.vercel.app/
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/20708420/234991704-500e78eb-c0ec-41da-8a73-62a4db737c49.PNG" width="900px" />
 </div>
